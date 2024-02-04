@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "img": "https://i.ibb.co/1X0Kd0q/img1.jpg",
+    "name": "Dr. Elora Williams",
+    "title": "Cardiologist",
+    "rating": "4.9"
+  },
+  {
+    "id": "2",
+    "img": "https://i.ibb.co/6yPCZ8J/img2.jpg",
+    "name": "Dr.Michel Smith",
+    "title": "Oncologist",
+    "rating": "5.0"
+  },
+  {
+    "id": "3",
+    "img": "https://i.ibb.co/GW12JnT/img3.jpg",
+    "name": "Dr. Rehana Bilkis",
+    "title": "Gynaecologist",
+    "rating": "4.8"
+  },
+  {
+    "id": "4",
+    "img": "https://i.ibb.co/bFZwr45/img4.jpg",
+    "name": "Dr. Luther Mathews",
+    "title": "Neurologist",
+    "rating": "4.9"
+  }
+]

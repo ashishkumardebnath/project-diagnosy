@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/xmxVqjZ/download.webp",
+    "icon": "https://i.ibb.co/pZYs74F/download-4.webp",
+    "title": "Oncology",
+    "details": "Oncology always try to provide the get the proper cure are and proper treatment for patient"
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co/8MbSfkB/download-1.webp",
+    "icon": "https://i.ibb.co/pZYs74F/download-4.webp",
+    "title": "Cardiology",
+    "details": "Cardiology always try to provide the get the proper cure are and proper treatment for patient"
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co/s39pQtT/download-2.webp",
+    "icon": "https://i.ibb.co/pZYs74F/download-4.webp",
+    "title": "Neurology",
+    "details": "Neurology always try to provide the get the proper cure are and proper treatment for patient"
+  },
+  {
+    "id": "4",
+    "image": "https://i.ibb.co/pJJmYBP/download-3.webp",
+    "icon": "https://i.ibb.co/pZYs74F/download-4.webp",
+    "title": "Gynecology",
+    "details": "Gynecology always try to provide the proper of cure are and proper treatment for patient"
+  }
+]
